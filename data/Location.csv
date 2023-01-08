@@ -1,0 +1,123 @@
+id,name,description,latitude,longitude,capacity
+1,Commercial Theater,"A theater with comfortable and accessible seating options for all patrons, ensuring an enjoyable experience for everyone",35.0107648,69.1625896,170
+2,School Theater,"A theater with a grand and elegant atmosphere, featuring plush seating and intricate details",32.068424,34.824785,950
+3,Granby Theater,"A grand, old theater with ornate decorations and a rich history, known for hosting renowned performers and productions",5.952775,116.05657,680
+4,Arizona Theater,"A theater with seating in small, cozy booths or cabins, creating a more intimate atmosphere for live performances",18.0651384,-77.4658948,260
+5,Mcbride Theater,"A theater with a vibrant and energetic atmosphere, ideal for upbeat and lively performances",29.8626871,71.3099509,590
+6,Raven Theater,"A theater with a sleek and modern atmosphere, featuring clean lines and a minimalist design",43.1790617,-86.1853474,720
+7,Bayside Theater,"A theater with a unique, themed atmosphere, such as a vintage or art deco design, evoking a sense of glamour and sophistication",-9.8596373,124.2754988,920
+8,Clarendon Theater,"A grand, old theater with ornate decorations and a rich history, known for hosting renowned performers and productions",14.7601163,120.9618758,220
+9,Truax Theater,"A theater with comfortable and accessible seating options for all patrons, ensuring an enjoyable experience for everyone",56.6306408,16.1858857,690
+10,Bonner Theater,"A theater with a unique and quirky atmosphere, featuring unexpected design elements and a fun atmosphere",41.946541,-8.5374197,120
+11,Maple Theater,"An outdoor theater with seating under the stars, surrounded by beautiful gardens and landscape, perfect for taking in the natural beauty while enjoying a live performance",13.4841015,-88.4670322,140
+12,Tomscot Theater,"A theater with a full bar and food service, offering a luxurious and sophisticated setting for a night out at the theater",-8.1448805,-79.0517936,610
+13,Green Ridge Theater,"An outdoor theater with seating under the stars, surrounded by beautiful gardens and landscape, perfect for taking in the natural beauty while enjoying a live performance",36.883077,22.5489792,820
+14,Fieldstone Theater,"A theater with a unique and quirky atmosphere, featuring unexpected design elements and a fun atmosphere",8.0186646,123.7786689,980
+15,Monica Theater,"A theater with comfortable and accessible seating options for all patrons, ensuring an enjoyable experience for everyone",32.7010866,-17.1340519,690
+16,Shelley Theater,"A theater with seating in small, cozy booths or cabins, creating a more intimate atmosphere for live performances",30.741991,121.341969,180
+17,Waubesa Theater,"A theater with a full bar and food service, offering a luxurious and sophisticated setting for a night out at the theater",43.4945737,5.8978018,850
+18,Corben Theater,"A grand, old theater with ornate decorations and a rich history, known for hosting renowned performers and productions",56.3103675,38.1016955,430
+19,Blackbird Theater,"A modern, multi-purpose theater with a sleek design and state-of-the-art lighting and sound systems, known for hosting cutting-edge performances and events",48.8693156,2.3501981,710
+20,Quincy Theater,"A theater with a unique and quirky atmosphere, featuring unexpected design elements and a fun atmosphere",35.1274285,-80.8599193,190
+21,Sundown Theater,"A theater with a sleek and modern atmosphere, featuring clean lines and a minimalist design",51.462471,86.01456,680
+22,Maryland Theater,"A theater with a warm and inviting atmosphere, featuring comfortable seating and a welcoming environment",40.9314367,20.0032794,510
+23,Dexter Theater,"A theater with a warm and welcoming atmosphere, perfect for bringing the family to see a live performance",-6.9970846,-76.1660561,900
+24,Cardinal Theater,"A theater with a vibrant and energetic atmosphere, ideal for upbeat and lively performances",-26.5090889,17.1514061,830
+25,Lukken Theater,"A theater with comfortable and accessible seating options for all patrons, ensuring an enjoyable experience for everyone",30.378326,111.450006,380
+26,Bunting Theater,"A theater with a relaxed and laid-back atmosphere, perfect for casual events and performances",52.60628,18.9012899,610
+27,Bayside Theater,"A theater with a grand and elegant atmosphere, featuring plush seating and intricate details",57.2363399,25.0380728,90
+28,Hoard Theater,"A small, intimate theater with comfortable seating and excellent acoustics, nestled in the heart of the city's cultural district",27.6486636,84.4172666,900
+29,Canary Theater,"A theater with a cozy and rustic atmosphere, featuring exposed brick walls and wooden beams",13.4008274,123.4768981,920
+30,Kensington Theater,"A theater with a cozy and intimate atmosphere, featuring comfortable seating and a warm atmosphere",40.3443875,46.9376519,270
+31,Duke Theater,"A theater with a warm and welcoming atmosphere, perfect for bringing the family to see a live performance",51.965973,21.419225,140
+32,Coleman Theater,"A theater with a cozy and intimate atmosphere, featuring comfortable seating and a warm atmosphere",24.453884,54.3773438,970
+33,Center Theater,"A theater with a vibrant and energetic atmosphere, ideal for upbeat and lively performances",43.8507498,131.8648449,990
+34,Clemons Theater,"A theater with a full bar and food service, offering a luxurious and sophisticated setting for a night out at the theater",56.606956,26.7599531,450
+35,Manley Theater,"A theater with a grand and opulent atmosphere, featuring luxurious seating and a grand stage",50.002337,22.6516099,170
+36,Claremont Theater,"A theater with a grand and elegant atmosphere, featuring plush seating and intricate details",-7.3788331,112.8165095,160
+37,Beilfuss Theater,"A theater with a unique, themed atmosphere, such as a vintage or art deco design, evoking a sense of glamour and sophistication",47.4494702,-122.307217,610
+38,Barby Theater,"A theater with a grand and elegant atmosphere, featuring plush seating and intricate details",-33.9789129,18.4483763,660
+39,Pankratz Theater,"A theater with a cozy and rustic atmosphere, featuring exposed brick walls and wooden beams",52.596028,22.1470031,740
+40,Magdeline Theater,"A theater with a unique and quirky atmosphere, featuring unexpected design elements and a fun atmosphere",50.4974447,31.7833183,550
+41,Arkansas Theater,"A theater with seating in small, cozy booths or cabins, creating a more intimate atmosphere for live performances",-21.1451492,-49.0000898,280
+42,Atwood Theater,"A modern, multi-purpose theater with a sleek design and state-of-the-art lighting and sound systems, known for hosting cutting-edge performances and events",41.5608072,-8.5863716,700
+43,Utah Theater,"An outdoor theater with seating under the stars, surrounded by beautiful gardens and landscape, perfect for taking in the natural beauty while enjoying a live performance",-18.8791902,47.5079055,210
+44,Lukken Theater,"A theater with a unique and quirky atmosphere, featuring unexpected design elements and a fun atmosphere",44.95015,-65.0655,950
+45,Main Theater,"A theater with a grand and elegant atmosphere, featuring plush seating and intricate details",45.8359543,5.0634248,100
+46,Lukken Theater,"A theater with a futuristic and modern design, featuring advanced technology and interactive elements",-8.792325,120.960602,410
+47,Sherman Theater,"A theater with a unique, themed atmosphere, such as a vintage or art deco design, evoking a sense of glamour and sophistication",41.4904044,2.0776887,550
+48,Delladonna Theater,"A theater with a futuristic and modern design, featuring advanced technology and interactive elements",48.9066299,2.2456603,260
+49,Algoma Theater,"A theater with comfortable and accessible seating options for all patrons, ensuring an enjoyable experience for everyone",47.510162,19.0238539,140
+50,Fallview Theater,"A theater with a unique and quirky atmosphere, featuring unexpected design elements and a fun atmosphere",25.904305,112.203287,390
+51,Stone Corner Theater,"A theater with a unique and quirky atmosphere, featuring unexpected design elements and a fun atmosphere",29.746561,111.778931,960
+52,Scott Theater,"A theater with a unique, themed atmosphere, such as a vintage or art deco design, evoking a sense of glamour and sophistication",21.938859,108.657209,300
+53,Northview Theater,"A theater with comfortable and accessible seating options for all patrons, ensuring an enjoyable experience for everyone",-6.6022253,106.199266,720
+54,Granby Theater,"A theater with a relaxed and laid-back atmosphere, perfect for casual events and performances",-32.2331548,-53.0866941,190
+55,Dixon Theater,"A theater with a cozy and rustic atmosphere, featuring exposed brick walls and wooden beams",21.604364,110.856592,190
+56,Vidon Theater,"A small, intimate theater with comfortable seating and excellent acoustics, nestled in the heart of the city's cultural district",46.6669865,3.590421,120
+57,Bunker Hill Theater,"A theater with a relaxed and laid-back atmosphere, perfect for casual events and performances",49.9146804,18.0123649,690
+58,Anhalt Theater,"A theater with a relaxed and laid-back atmosphere, perfect for casual events and performances",45.8524432,-73.7572393,240
+59,Redwing Theater,"An outdoor theater with seating under the stars, surrounded by beautiful gardens and landscape, perfect for taking in the natural beauty while enjoying a live performance",45.506995,124.292626,310
+60,Lien Theater,"A theater with a grand and opulent atmosphere, featuring luxurious seating and a grand stage",-6.3660452,107.4144526,970
+61,Holy Cross Theater,"A theater with a cozy and rustic atmosphere, featuring exposed brick walls and wooden beams",37.8524958,-25.2644959,770
+62,Claremont Theater,"A modern, multi-purpose theater with a sleek design and state-of-the-art lighting and sound systems, known for hosting cutting-edge performances and events",1.504786,103.82287,680
+63,Sherman Theater,"A theater with comfortable and accessible seating options for all patrons, ensuring an enjoyable experience for everyone",59.3851719,17.9172006,180
+64,Rutledge Theater,"A theater with comfortable and accessible seating options for all patrons, ensuring an enjoyable experience for everyone",18.5056182,-69.8487452,370
+65,Chinook Theater,"A small, intimate theater with comfortable seating and excellent acoustics, nestled in the heart of the city's cultural district",41.7856407,19.6721146,810
+66,Melvin Theater,"A theater with comfortable and accessible seating options for all patrons, ensuring an enjoyable experience for everyone",35.941521,115.390471,60
+67,Cascade Theater,"A grand, old theater with ornate decorations and a rich history, known for hosting renowned performers and productions",13.3601931,99.9129845,170
+68,2nd Theater,"A grand, old theater with ornate decorations and a rich history, known for hosting renowned performers and productions",-12.1227634,44.4883576,700
+69,Sullivan Theater,"A theater with a cozy and intimate atmosphere, featuring comfortable seating and a warm atmosphere",-1.3964218,-48.4609448,890
+70,Grayhawk Theater,"A theater with a full bar and food service, offering a luxurious and sophisticated setting for a night out at the theater",29.5613789,-98.5612534,420
+71,Eagan Theater,"A theater with a cozy and intimate atmosphere, featuring comfortable seating and a warm atmosphere",39.726929,116.341395,960
+72,Melrose Theater,"A theater with a vibrant and energetic atmosphere, ideal for upbeat and lively performances",25.8263535,-97.5294628,360
+73,Ridgeway Theater,"A theater with a relaxed and laid-back atmosphere, perfect for casual events and performances",27.1574303,117.3011656,950
+74,Beilfuss Theater,"A theater with a warm and welcoming atmosphere, perfect for bringing the family to see a live performance",39.803681,112.073298,460
+75,Delaware Theater,"A theater with a grand and elegant atmosphere, featuring plush seating and intricate details",34.8582652,33.6007892,850
+76,Lakewood Theater,"A theater with a warm and inviting atmosphere, featuring comfortable seating and a welcoming environment",7.4554641,4.5443923,380
+77,Lunder Theater,"A theater with a vibrant and energetic atmosphere, ideal for upbeat and lively performances",10.527138,122.813931,1000
+78,Daystar Theater,"A theater with a futuristic and modern design, featuring advanced technology and interactive elements",10.5570353,-85.68986,270
+79,Springview Theater,"A modern, multi-purpose theater with a sleek design and state-of-the-art lighting and sound systems, known for hosting cutting-edge performances and events",32.748741,103.82319,350
+80,Butterfield Theater,"A modern, multi-purpose theater with a sleek design and state-of-the-art lighting and sound systems, known for hosting cutting-edge performances and events",39.907483,116.442259,500
+81,Forest Dale Theater,"A theater with a grand and elegant atmosphere, featuring plush seating and intricate details",66.3110843,14.1351449,210
+82,Kropf Theater,"A modern, multi-purpose theater with a sleek design and state-of-the-art lighting and sound systems, known for hosting cutting-edge performances and events",-19.2277915,-41.1602597,360
+83,Merrick Theater,"A theater with seating in small, cozy booths or cabins, creating a more intimate atmosphere for live performances",41.7268086,129.6850661,200
+84,Dahle Theater,"A theater with a grand and opulent atmosphere, featuring luxurious seating and a grand stage",36.9635917,56.3712327,880
+85,Rieder Theater,"A grand, old theater with ornate decorations and a rich history, known for hosting renowned performers and productions",-12.2,-75.416667,740
+86,Sycamore Theater,"A theater with a cozy and rustic atmosphere, featuring exposed brick walls and wooden beams",48.3135026,25.082229,420
+87,Corscot Theater,"A theater with a sleek and modern atmosphere, featuring clean lines and a minimalist design",42.3998287,20.6527992,400
+88,Summer Ridge Theater,"A theater with a vibrant and energetic atmosphere, ideal for upbeat and lively performances",20.8965838,-105.4093552,280
+89,Mcguire Theater,"A theater with a warm and welcoming atmosphere, perfect for bringing the family to see a live performance",-34.7356949,-58.6340339,780
+90,8th Theater,"A theater with a unique, themed atmosphere, such as a vintage or art deco design, evoking a sense of glamour and sophistication",45.0543662,34.3179269,740
+91,Atwood Theater,"A theater with a full bar and food service, offering a luxurious and sophisticated setting for a night out at the theater",27.353091,118.015602,840
+92,Artisan Theater,"A theater with a grand and elegant atmosphere, featuring plush seating and intricate details",45.6011009,20.1415393,840
+93,Katie Theater,"A theater with seating in small, cozy booths or cabins, creating a more intimate atmosphere for live performances",48.8171378,2.4196694,410
+94,Mockingbird Theater,"A theater with a warm and welcoming atmosphere, perfect for bringing the family to see a live performance",39.9996674,116.3264439,280
+95,Cardinal Theater,"A theater with a futuristic and modern design, featuring advanced technology and interactive elements",8.5060115,8.5226706,600
+96,Utah Theater,"A small, intimate theater with comfortable seating and excellent acoustics, nestled in the heart of the city's cultural district",-6.1859723,106.8909003,1000
+97,Scoville Theater,"A theater with a unique, themed atmosphere, such as a vintage or art deco design, evoking a sense of glamour and sophistication",-36.9532166,-73.017378,940
+98,Park Meadow Theater,"A theater with seating in small, cozy booths or cabins, creating a more intimate atmosphere for live performances",7.871544,122.550568,840
+99,Schiller Theater,"A small, intimate theater with comfortable seating and excellent acoustics, nestled in the heart of the city's cultural district",15.4004052,119.9303933,310
+100,Fordem Theater,"A theater with a futuristic and modern design, featuring advanced technology and interactive elements",39.4364103,-8.2988008,600
+101,Apollon Theatre,"Designed by the famous German architect Ernst Ziller, it was completed in 1872. The Apollon is located east of Georgiou I Square, one of Patras' popular squares. The theatre is a micrograph of the La Scala in Milan and is the oldest existing enclosed theatre of the same era.",38.2465988547397,21.7354299875728,300
+102,Municipal Theatre Of Piraeus,A neoclassical building built on plans by the architect Ioannis Lazarimos and opened on 9 April 1895. The theatre has a 600-seat capacity and is located in the centremost place of Piraeus.,37.9435741419497,23.6468106557873,600
+103,Super Dome,"A massive stadium with a seating capacity of over 70,000, known for hosting major sporting events and concerts",2.1514272,11.3317605,70000
+104,Colosseum,"A massive amphitheater with a seating capacity of over 50,000, known for hosting major sporting events and concerts",33.273148,115.676125,50000
+105,Madison Square Garden,"A multi-purpose arena with a seating capacity of over 20,000, known for hosting major sporting events and concerts",47.2457073,-122.4773432,20000
+106,O2 Arena,"A multi-purpose arena with a seating capacity of over 20,000, located in London, England, known for hosting major concerts and sporting events",34.7326539,137.7446478,20000
+107,Staples Center,"A multi-purpose arena with a seating capacity of over 20,000, located in Los Angeles, California, known for hosting major concerts and sporting events",51.07588,17.72244,20000
+108,Sydney Opera House,"A world-famous performing arts venue located in Sydney, Australia, known for hosting major concerts and theater performances",-36.7421593,-72.3017718,3900
+109,Hollywood Bowl,"An outdoor amphitheater with a seating capacity of over 18,000, located in Hollywood, California, known for hosting major concerts and performances",12.469284,-85.6614682,18000
+110,Red Rocks Amphitheater,"An outdoor amphitheater with a seating capacity of over 9,000, located in Morrison, Colorado, known for hosting major concerts and performances",49.0580516,-122.4706669,9000
+111,Wembley Stadium,"A massive stadium with a seating capacity of over 90,000, located in London, England, known for hosting major sporting events and concerts",46.2519995,30.4372882,90000
+112,GelreDome,"A multi-purpose arena with a seating capacity of over 35,000, located in Arnhem, Netherlands, known for hosting major sporting events and concerts",13.6867437,123.1989968,35000
+113,OAKA Olympic Stadium,"A multi-purpose stadium with a seating capacity of over 70,000, located in Athens, Greece, known for hosting major sporting events and concerts",38.0394620918745,23.7849193614524,70000
+114,Tae Kwon Do Indoor Hall,"A multi-purpose indoor arena with a seating capacity of over 10,000, located in Athens, Greece, known for hosting major sporting events and concerts",37.9362008796128,23.6910354325301,10000
+115,Peace and Friendship Stadium,"A multi-purpose stadium with a seating capacity of over 30,000, located in Piraeus, Greece, known for hosting major sporting events and concerts",37.9425761546939,23.6675979439115,30000
+116,Olympiako Stadio Spyros Louis,"A multi-purpose stadium with a seating capacity of over 80,000, located in Athens, Greece, known for hosting major sporting events and concerts",38.0394620918745,23.7849193614524,80000
+117,Karaiskaki Stadium,"A multi-purpose indoor arena with a seating capacity of over 15,000, located in Athens, Greece, known for hosting major sporting events and concerts",37.9465466908984,23.6643700846545,15000
+118,Olympic Indoor Hall,"An outdoor stadium with a seating capacity of over 25,000, located in Patras, Greece, known for hosting major sporting events and concerts",38.0377974805483,23.784373200202,25000
+119,Panthessaliko Stadium,"An outdoor stadium with a seating capacity of over 25,000, located in Thessaloniki, Greece, known for hosting major sporting events and concerts",39.3874927340396,22.9308138071321,25000
+120,Plateia Nerou,"A multi-purpose indoor arena with a seating capacity of over 10,000, located in Athens, Greece, known for hosting major sporting events and concerts",37.9370458587727,23.6892029689631,10000
+121,Gipedo Toumbas,"A massive stadium with a seating capacity of over 70,000, known for hosting major sporting events and concerts",40.6142462667597,22.9717935119004,70000
+122,Nikaia Olympic Handball Centre,"A massive amphitheater with a seating capacity of over 50,000, known for hosting major sporting events and concerts",38.0386853644602,23.785328365587,50000

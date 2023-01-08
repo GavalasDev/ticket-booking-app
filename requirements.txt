@@ -1,0 +1,4 @@
+PySimpleGUI==4.60.4
+reportlab==3.6.12
+reportlab_qrcode==0.1.4
+tqdm==4.64.1

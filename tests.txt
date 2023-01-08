@@ -1,0 +1,52 @@
+--------------------------------------------------------------
+Check that all locations have the correct number of seats
+--------------------------------------------------------------
+SELECT Location.id, Location.name, Location.capacity, COUNT(Seat.id) as seat_count
+FROM Location
+LEFT JOIN Seat ON Seat.location_id = Location.id
+GROUP BY Location.id
+HAVING COUNT(Seat.id) != Location.capacity
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+Check that the `check_ticket_count_before_insert` trigger works
+--------------------------------------------------------------
+INSERT INTO Reservation(number, user_email, receipt_num, datetime, tickets_no, happening_id)
+VALUES(99999, 'mmckinlay0@vinaora.com', 12345, '2022-01-01 10:00:00', 2, 1);
+
+
+-- Should work
+INSERT INTO Ticket(name, reservation_num, seat_id, happening_id)
+VALUES('Kostas', 99999, 1120, 1), ('Dimitris', 99999, 1121, 1);
+
+
+-- Should produce an error
+INSERT INTO Ticket(name, reservation_num, seat_id, happening_id)
+VALUES('Giorgos', 99999, 1122, 1);
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+Check that the `check_seat_location_before_insert` trigger works
+--------------------------------------------------------------
+INSERT INTO Reservation(number, user_email, receipt_num, datetime, tickets_no, happening_id)
+VALUES(1, 'dquinton0@feedburner.com', 12345, '2022-01-01 10:00:00', 2, 1);
+
+
+-- Should work
+INSERT INTO Ticket(name, reservation_num, seat_id, happening_id)
+VALUES('Kostas', 1, 11201, 1);
+
+
+-- Should produce an error
+INSERT INTO Ticket(name, reservation_num, seat_id, happening_id)
+VALUES('Kostas', 1, 23, 1);
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+Check that the `reservation_date_check_before_update` trigger works
+--------------------------------------------------------------
+Try using the graphical interface to change the date of the first reservation to a date in 2024.
+
+The Database produces the error: Reservation date must be earlier than happening date
+--------------------------------------------------------------
